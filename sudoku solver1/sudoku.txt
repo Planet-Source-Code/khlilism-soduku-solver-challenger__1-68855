@@ -1,0 +1,8 @@
+In this project you can solve any Sudoku puzzle.I used 4 techniques
+to solve the puzzles.And the fifth one is puttinng tow possible values
+and the application try to bulid the missing numbers in all puzzle.in fact this 
+aplication challenge any Sudoku puzzle.this appliction solve only puzzles which have 
+solution.now i work on if the puzzle has not a solution. it may be need more development
+for more perfection. so if you can please contact me at mail 
+
+ 
